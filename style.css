@@ -47,6 +47,10 @@ form .output input {
   box-shadow: none;
 }
 
-form #equal-btn {
+form input.equal-btn {
   width: 145px;
+}
+
+form #operator {
+  color: #33ffd8
 }
